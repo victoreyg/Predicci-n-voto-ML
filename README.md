@@ -8,4 +8,4 @@ Paso a paso y con una explicación muy detallada en texto, en el mismo script.
 
 ## Bases de datos y cuestionario
 
-Puedes acceder al Sociómtero y descargar eñ csv y cuestionario en pdf [aquí](https://www.euskadi.eus/informes-estudios/sociometro-83/web01-s1lehike/es/).
+Puedes acceder al Sociómtero y descargar el csv y cuestionario en pdf [aquí](https://www.euskadi.eus/informes-estudios/sociometro-83/web01-s1lehike/es/).
