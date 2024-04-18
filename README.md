@@ -4,7 +4,7 @@ Este repositorio **muestra el preprocesado, modelado y estimación de voto en la
 
 El problema a resolver es la **intención de voto, detección y corrección de las "mentiras" sobre la intención de voto y estimación final del voto** a partir de la encuesta del Sociómtero (CIS-Vasco) de marzo de 2024.
 
-Vaya, que resolvemos y desvelamos la receta de la "cocina de las encuestas" o la "cocina del voto". Paso a paso y con una explicación muy detallada en texto, en el mismo script.
+Vaya, que resolvemos y desvelamos la receta de la "cocina de las encuestas" o "cocina del voto". Paso a paso y con una explicación muy detallada en texto, en el mismo script.
 
 ## Bases de datos y cuestionario
 
