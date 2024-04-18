@@ -1,4 +1,4 @@
-# Prediccion-voto-ML
+🗳️🤖🧠 # Prediccion-voto-ML
 
 Este repositorio **muestra el preprocesado, modelado y estimación de voto en las elecciones vascas del 21-A con técnicas de Machine Learning** y estadística aplicada a las ciencias sociales. La estructura del repositorio es sencilla, un solo script para preprocesado y modelado + excel (entre la nostalgia y el pragmatismo) para rematar la estimación de voto. 
 
